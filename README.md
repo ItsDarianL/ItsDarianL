@@ -2,7 +2,7 @@
  
 **`Aspiring CSA (Cyber Security Analyst)`**
 
-Hello, my name is Darian Lawrence, commonly referred to as "Oxy," and I'm a passionate and determined cybersecurity analyst with a strong technical background. 
+Hello, my name is Darian Lawrence, commonly referred to as my alias "Oxy," and I'm a passionate and determined cybersecurity analyst with a strong technical background. 
 
 I'm committed to protecting digital assets by identifying and mitigating potential threats. Constantly expanding knowledge in network security, ethical hacking, and incident response to ensure robust defence against cyberattacks.
 
