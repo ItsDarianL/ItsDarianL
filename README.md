@@ -1,6 +1,6 @@
 # :man_technologist: Darian Lawrence
  
-**`Aspiring CSA (Cyber Security Analyst)`**
+**`Aspiring DevOps Engineer`**
 
 Hello, my name is Darian Lawrence, commonly referred to as "Oxy," and I'm a passionate and determined cybersecurity analyst with a strong technical background. 
 
